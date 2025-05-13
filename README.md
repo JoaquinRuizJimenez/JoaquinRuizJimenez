@@ -26,7 +26,7 @@
 - [Ataraxia](https://github.com/JoaquinRuizJimenez/PROYECTO-MARCAS-Ataraxia) - Pagina web que usa una base de datos NOSQL (JSON) y Node.js para mostrar rutinas, ejercicios y alimentacion saludable
 - [Ataraxia](https://github.com/JoaquinRuizJimenez/PROYECTO-MARCAS-Ataraxia) - Web page using MongoDB and Node.js to show routines, exercises and healthy foods  
 - [Calculadora Simple](https://github.com/JoaquinRuizJimenez/Calculadora_JRJ1-DAW) - Calculadora simple usando JS
-- [Simple Calculator](https://github.com/JoaquinRuizJimenez/Calculadora_JRJ1-DAW) - Calculadora simple usando JS
+- [Simple Calculator](https://github.com/JoaquinRuizJimenez/Calculadora_JRJ1-DAW) - Simple calculator using JS
 
 ---
 
