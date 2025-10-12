@@ -11,8 +11,8 @@
 ## 🛠️ Tecnologías / Tech Stack
 
 💻 Frontend: HTML5, CSS3, JS  
-⚙️ Backend: Node.js, Spring  
-🛢️ Base de datos / Databases: MongoDB, SQL Server  
+⚙️ Backend: Node.js, Spring, PHP  
+🛢️ Base de datos / Databases: MongoDB, SQL Server, MySQL  
 📦 Otros: Git, Docker
 
 ---
