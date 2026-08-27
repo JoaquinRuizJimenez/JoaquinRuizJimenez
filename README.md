@@ -38,6 +38,7 @@
 - I spend my freetime reading/listening to music (usually R&B or Rock, depends on the mood)
 - I'm independently leaning about cybersecurity. Interested in both redteam and blueteam, but leaning more towards pentesting.
 - Some of my projects are kept private. If you are a recruiter, don't be afraid to ask!
+- I'm a donor for the wikipedia corporation. #KeepWikipediaAlive
 
 ---
 
