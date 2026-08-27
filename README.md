@@ -1,38 +1,33 @@
-# 👋 ¡Hola! / Hi there!
+# 👋 Hi there!
 
-## 🧑‍💻 Sobre mí / About Me
+## 🧑‍💻  About Me
 
-🎯 Soy Joaquín Ruiz, un desarrollador web (y futuro profesional en ciberseguridad) apasionado por la tecnología, el código limpio y las soluciones creativas. Me gusta construir cosas que funcionen bien y se vean bien. Actualmente trabajando en proyectos personales,estudiando en el CPIFP Alan Turing y colaborando cuando puedo.
-
-🎯 I'm Joaquín Ruiz, a web developer (and future professional in cybersecurity) passionate about technology, clean code, and creative solutions. I enjoy building things that not only work great but look great too. Currently working on personal projects, studying in CPIFP Alan Turing, and contributing when I can.
+🎯 I'm Joaquín Ruiz, a web developer (and future professional in cybersecurity) passionate about technology, clean code, and hard work. Currently working on personal projects, learning and using new technologies, and contributing when I can.
 
 ---
 
 ## 🛠️ Tecnologías / Tech Stack
 
-💻 Frontend: HTML5, CSS3, JS  
-⚙️ Backend: Node.js, Spring, PHP  
-🛢️ Base de datos / Databases: MongoDB, SQL Server, MySQL  
-📦 Otros: Git, Docker
+💻 Frontend: HTML5, CSS3, JS, React 16+, Angular 16+, SASS, TailwindCSS  
+⚙️ Backend: Node.js, Spring, PHP, Laravel, Python, FastAPI, Flask, Java, C++  
+🛢️ Databases: MongoDB, SQL Server, MySQL, PostgreSQL  
+📦 Others: Git, Docker, Github Actions, Trello, Jira, Swagger, AWS, Figma, LAMP stack, Google Cloud
 
 ---
 
-## 🚀 Algunos proyectos / Some Projects
+## 🚀 Some Projects
 
-🔧 Aquí puedes poner enlaces a tus repositorios principales o destacados.
-
-- [Chistes Chuck Norris](https://github.com/JoaquinRuizJimenez/Chistes-ChuckNorris) - Página web que usa una API para mostrar chistes de Chuck Norris por categoria
 - [Chuck Norris Jokes](https://github.com/JoaquinRuizJimenez/Chistes-ChuckNorris) - Web page using a API to show jokes aobut Chuck Norris using filters
-- [Ataraxia](https://github.com/JoaquinRuizJimenez/PROYECTO-MARCAS-Ataraxia) - Pagina web que usa una base de datos NOSQL (JSON) y Node.js para mostrar rutinas, ejercicios y alimentacion saludable
 - [Ataraxia](https://github.com/JoaquinRuizJimenez/PROYECTO-MARCAS-Ataraxia) - Web page using MongoDB and Node.js to show routines, exercises and healthy foods  
-- [Calculadora Simple](https://github.com/JoaquinRuizJimenez/Calculadora_JRJ1-DAW) - Calculadora simple usando JS
 - [Simple Calculator](https://github.com/JoaquinRuizJimenez/Calculadora_JRJ1-DAW) - Simple calculator using JS
+- [Sushi Miyu](https://github.com/Adrianasd22/Sushi) - Complete Web page using React and Angular, Laravel, Docker, Swagger, MySQL, AWS and others
+- [ToDo List](https://github.com/JoaquinRuizJimenez/recupReact) - Simple but complete to do list using React w/Axios, Laravel, Docker and Mysql. Made to be as intuitive as possible
 
 ---
 
-## 📫 Contacto / Get in Touch
+## 📫 Get in Touch
 
-💬 Siempre abierto a nuevas ideas, colaboración o simplemente una buena charla sobre código./ Always open to new ideas, collaboration or just chatting about code.  
+💬 Always open to new ideas, collaboration or just chatting about code.  
 📧 Email: [joaquinruizjimenez20@gmail.com]  
 💼 LinkedIn: [linkedin.com/in/joaquinruiz](https://www.linkedin.com/in/joaqu%C3%ADn-ruiz-jim%C3%A9nez-43a880343/)
 
@@ -40,13 +35,12 @@
 
 ## 🤓 Fun Facts
 
-- Amo el café/ I love coffe
-- Me gusta la filosofía/ I love philosophy
-- Intento estar al día de las últimas novedades en el mundo de la informática (especialmente la ciberseguridad)/ I always try to be up to date with the latest news about computer science (especially cybersecurity)   
+- I spend my freetime reading/listening to music (usually R&B or Rock, depends on the mood)
+- I'm independently leaning about cybersecurity. Interested in both redteam and blueteam, but leaning more towards pentesting.
+- Some of my projects are kept private. If you are a recruiter, don't be afraid to ask!
 
 ---
 
-¡Gracias por visitar mi perfil!  
 Thanks for stopping by! 👋
 
 
