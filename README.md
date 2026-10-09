@@ -1,22 +1,22 @@
 # 👋 Hi there!
 
-## 🧑‍💻  About Me
+## About Me
 
-🎯 I'm Joaquín Ruiz, a full-stack developer passionate about technology, clean code, and hard work. Currently working on personal projects, learning and using new technologies, and contributing when I can.
+I'm Joaquín Ruiz, a full-stack developer passionate about technology, clean code, and hard work. Currently working on personal projects, learning and using new technologies, and contributing when I can.
 Rigth now, I'm looking out for both my studies and my work carreer. At this moment, I'm a Master's Student (Python Language). After finishing, I'm looking to do a double vocational higher degree (adding multiplatform development to my web application development education). After that, idealy I'll start IT engineering to expand further my knowledge. 
 
 ---
 
 ## 🛠️ Tech Stack
 
-💻 Frontend: HTML5, CSS3, JS(ES16), React 16+, Angular 16+, SASS, TailwindCSS  
-⚙️ Backend: Node.js, Spring, PHP, Laravel, Python, FastAPI, Flask, Java, C++  
-🛢️ Databases: MongoDB, SQL Server, MySQL, PostgreSQL  
+Frontend: HTML5, CSS3, JS(ES16), React 16+, Angular 16+, SASS, TailwindCSS  
+Backend: Node.js, Spring, PHP, Laravel, Python, FastAPI, Flask, Java, C++  
+Databases: MongoDB, SQL Server, MySQL, PostgreSQL  
 📦 Others: Git, Docker, Github Actions, Trello, Jira, Swagger, AWS, Figma, LAMP stack, Google Cloud
 
 ---
 
-## 🚀 Some Projects
+## Some Projects
 
 - [Spotify2Audio](https://github.com/JoaquinRuizJimenez/Spotify2Audio) - Desktop app made with python to download playlists from a spotify link
 - [RTChat](https://github.com/JoaquinRuizJimenez/Realtime-chat) - Solo project. Forum-like app using Node.js, MongoDB, Socket.io, Bcrypt, React and more.
@@ -26,9 +26,9 @@ Rigth now, I'm looking out for both my studies and my work carreer. At this mome
 
 ---
 
-## 📫 Get in Touch
+## Get in Touch
 
-💬 Always open to new ideas, collaboration or just chatting.  
+Always open to new ideas, collaboration or just chatting.  
 📧 Email: [joaquinruizjimenez20@gmail.com]  
 💼 LinkedIn: [linkedin.com/in/joaquinruiz](https://www.linkedin.com/in/joaqu%C3%ADn-ruiz-jim%C3%A9nez-43a880343/)
 
