@@ -18,10 +18,10 @@ Rigth now, I'm looking out for both my studies and my work carreer. At this mome
 
 ## 🚀 Some Projects
 
+- [Spotify2Audio](https://github.com/JoaquinRuizJimenez/Spotify2Audio) - Desktop app made with python to download playlists from a spotify link
 - [RTChat](https://github.com/JoaquinRuizJimenez/Realtime-chat) - Solo project. Forum-like app using Node.js, MongoDB, Socket.io, Bcrypt, React and more.
 - [Sushi Miyu](https://github.com/Adrianasd22/Sushi) - Complete Web page using React and Angular, Laravel, Docker, Swagger, MySQL, AWS and others
 - [ToDo List](https://github.com/JoaquinRuizJimenez/recupReact) - Simple but complete to do list using React w/Axios, Laravel, Docker and Mysql. Made to be as intuitive as possible
-- [Chuck Norris Jokes](https://github.com/JoaquinRuizJimenez/Chistes-ChuckNorris) - Web page using a API to show jokes aobut Chuck Norris using filters
 - [Ataraxia](https://github.com/JoaquinRuizJimenez/PROYECTO-MARCAS-Ataraxia) - Web page using MongoDB and Node.js to show routines, exercises and healthy foods  
 
 ---
